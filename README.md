@@ -14,47 +14,48 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 ### Architecture
 
-> - css
->   > styles.css
+- css
+  - styles.css
 
-- index.html.
-  > - js
-  >   > app.js
+* index.html
+
+- js
+  - app.js
 
 * README.md
 
 ## Usability
 
-All features are usable across modern desktop, tablet, and phone browsers.
+- All features are usable across modern desktop, tablet, and phone browsers.
 
 ## Styling
 
-Styling has been added for active states.
+- Styling has been added for active states.
 
 ## HTML Structure
 
-Has 4 Sections and you can add more and more of sections as you want.
+- Has 4 Sections and you can add more and more of sections as you want.
 
-## Landing Page Behavior
+* ## Landing Page Behavior
 
 ### Navigation
 
-Navigation is built dynamically as an unordered list. Start with empty ul and dynamically build navigation using Append, appendChild, and innerHTML.
+- Navigation is built dynamically as an unordered list. Start with empty ul and dynamically build navigation using Append, appendChild, and innerHTML.
 
 ### Section Active State
 
-it's to clear which section is being viewed while scrolling through the page.
+- it's to clear which section is being viewed while scrolling through the page.
 
 ### Scroll to Anchor
 
-When clicking an item from the navigation menu, the link should scroll to the appropriate section.
+- When clicking an item from the navigation menu, the link should scroll to the appropriate section.
 
 ## Documentation
 
 ### Comments
 
-omments are present and effectively explain longer code procedures as described in the Udacity JavaScript Style Guide - Comments.
+- omments are present and effectively explain longer code procedures as described in the Udacity JavaScript Style Guide - Comments.
 
 ### Code Quality
 
-Code is formatted with consistent, logical, and easy-to-read formatting as described in the Udacity JavaScript Style Guide - Code Formatting.
+- Code is formatted with consistent, logical, and easy-to-read formatting as described in the Udacity JavaScript Style Guide - Code Formatting.
