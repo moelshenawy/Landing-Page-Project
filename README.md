@@ -14,15 +14,14 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 ### Architecture
 
-- > css.
-  >
-  > > styles.css.
-- index.html.
-- > js.
-  >
-  > > app.js.
+> - css
+>   > styles.css
 
-* README.md.
+- index.html.
+  > - js
+  >   > app.js
+
+* README.md
 
 ## Usability
 
