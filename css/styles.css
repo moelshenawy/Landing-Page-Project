@@ -131,7 +131,7 @@ section {
 section:nth-of-type(even) .landing__container {
   margin-right: 0;
   margin-left: auto;
-  text-align: right;
+  text-align: center;
 }
 
 /* Background Circles */
